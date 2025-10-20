@@ -2,22 +2,22 @@
 <h1>Hi, I'm maxx <br/><a href="_my programming projects">Programmer</a>, <a href="my cyber projects">Cybersecurity Professional</a>, <a href="my yt channel link">YouTuber</a></h1>
 
 <h2>👨‍💻 project1:</h2>
--
--
--
+- 
+- 
+- 
 <h2>Project 2:</h2>
- -
- -
- -
+- 
+- 
+- 
 <h2>Project 3:</h2>
--
--
--
+- 
+- 
+- 
 
 <h2>Project 4:</h2>
 - [put project description )](put project link)
--
--
+- 
+- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
