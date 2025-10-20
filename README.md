@@ -3,19 +3,10 @@
 
 <h2>👨‍💻 project1:</h2>
 
-- 
-  - 
-- 
-  - 
 <h2>Project 2:</h2>
-  - 
-  -
-  - 
-  -
+  
 <h2>Project 3:</h2>
-  - 
-  - 
-  - 
+
 <h2>Project 4:</h2>
   - [put project description )](put project link)
 
